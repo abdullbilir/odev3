@@ -1,0 +1,93 @@
+body {
+background-color: pink;
+color: #0F3D3E;
+}
+
+
+ul {
+position: relative;
+margin-left: 0;
+	padding-left: 1.2em;
+	float: left;
+}
+
+ul li {
+float: left;
+}
+
+span {
+color: #D1512D;
+}
+
+i h1 {
+color: #D1512D;
+}
+
+p b {
+color: #D1512D;
+}
+
+ol {
+list-style: none;
+}
+
+ol li b {
+background-color: #D1512D;
+color: #fff;
+padding: 7px;
+border-radius: 20px;
+}
+
+ol li ul {
+float: none;
+margin: 20px;
+}
+
+ol li ul li {
+float: none;
+}
+
+
+
+.kapsama p {
+width: 250px;
+float: left;
+text-align: center;
+}
+
+.kapsama {
+display: flex;
+justify-content: center;
+}
+
+.list-none {
+list-style: none;
+}
+
+.kapsama2 {
+width: 710px;
+height: 200px;
+margin: 0 auto;
+}
+
+.kapsama3 {
+width: 630px;
+height: 200px;
+margin: 5px auto;
+}
+
+.list {
+list-style: decimal;
+}
+
+.ozel {
+background-color: #D1512D;
+color: #fff;
+padding: 7px;
+border-radius: 20px;
+}
+
+.ozel2 {
+text-align: center;
+margin: 30px;
+}
